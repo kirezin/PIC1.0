@@ -1,0 +1,7 @@
+{
+  "name": "Presença Igreja Cloud",
+  "description": "Sistema de controle de presença facial para igrejas. Funciona em qualquer dispositivo via navegador, com análise de dados via Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
